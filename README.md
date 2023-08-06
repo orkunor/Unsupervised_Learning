@@ -1,0 +1,2 @@
+# Unsupervised_Learning
+ Unsupervised learning is an important branch of machine learning and aims to extract meaning and knowledge about configurations, patterns and relationships by examining unlabelled datasets. Unlike supervised learning methods, unsupervised learning does not have any labels (target values) in the dataset. Therefore, unsupervised learning algorithms are widely used in data analysis and structuring.
